@@ -1,0 +1,64 @@
+.aws-btn {
+  @media only screen and (max-width: 599px){
+    --button-default-height: 30px;
+    --button-default-border-radius: 25px;
+    --button-horizontal-padding: 1px;
+  }
+  
+  --button-default-height: 50px;
+  --button-default-font-size: 14px;
+  --button-default-border-radius: 0px;
+  --button-raise-level: 5px;
+  --button-hover-pressure: 3;
+  --transform-speed: 0.185s;
+  --button-primary-color-dark: #4a3f97;
+  --button-primary-color: #a56ec5;
+  --button-primary-color-light: #2e84b2;
+  --button-primary-color-hover: #fda7d2;
+  --button-primary-border: none;
+  --button-secondary-color: transparent;
+  --button-secondary-color-dark: #151c2e;
+  --button-secondary-color-light: white;
+  --button-secondary-color-hover: transparent;
+  --button-secondary-border: 1.5px solid #fb43c4;
+  margin: 0 1vw;
+  @media only screen and (max-width: 899px) and (min-width: 600px){
+    --button-default-height: 40px;
+    --button-default-border-radius: 30px;
+    --button-horizontal-padding: 1px;
+  }
+  }
+
+  .sidebar .aws-btn {
+  @media only screen and (max-width: 599px){
+    --button-default-height: 10px;
+    --button-default-border-radius: 25px;
+    --button-horizontal-padding: 1px;
+    width: 8vw;
+  }
+  
+  --button-default-height: 30px;
+  --button-default-font-size: 12px;
+  --button-default-border-radius: 25px;
+  --button-raise-level: 5px;
+  --button-hover-pressure: 3;
+  --transform-speed: 0.185s;
+  --button-primary-color-dark: #4a3f97;
+  --button-primary-color: #a56ec5;
+  --button-primary-color-light: #2e84b2;
+  --button-primary-color-hover: #fda7d2;
+  --button-primary-border: none;
+  --button-secondary-color: transparent;
+  --button-secondary-color-dark: #151c2e;
+  --button-secondary-color-light: white;
+  --button-secondary-color-hover: transparent;
+  --button-secondary-border: 1.5px solid #fb43c4;
+  margin: 0 1vw;
+  width: 3vw;
+  @media only screen and (max-width: 899px) and (min-width: 600px){
+    --button-default-height: 40px;
+    --button-default-border-radius: 30px;
+    --button-horizontal-padding: 1px;
+    width: 5vw;
+  }
+  }
