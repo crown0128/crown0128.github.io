@@ -4,7 +4,7 @@ import {
   AwesomeButtonProgress,
   AwesomeButtonSocial
 } from "react-awesome-button";
-import styles from "../webBttn.scss";
+import styles from "../webBttn.css";
 import proj4 from '../img/Breweriessq.png';
 import proj5 from '../img/cheftopia.png';
 import proj1 from '../img/nasasq.png';
