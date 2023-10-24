@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4f068c3d.chunk.css",
+    "main.js": "/static/js/main.b181c942.chunk.js",
+    "main.js.map": "/static/js/main.b181c942.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.a77db10b.chunk.css": "/static/css/2.a77db10b.chunk.css",
+    "static/js/2.3658b65b.chunk.js": "/static/js/2.3658b65b.chunk.js",
+    "static/js/2.3658b65b.chunk.js.map": "/static/js/2.3658b65b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.54e59f4a340164890031c5e93ca1c9c1.js": "/precache-manifest.54e59f4a340164890031c5e93ca1c9c1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.a77db10b.chunk.css.map": "/static/css/2.a77db10b.chunk.css.map",
+    "static/css/main.4f068c3d.chunk.css.map": "/static/css/main.4f068c3d.chunk.css.map",
+    "static/media/Breweriessq.png": "/static/media/Breweriessq.d1a23581.png",
+    "static/media/Wave.ba0dd392.svg": "/static/media/Wave.ba0dd392.svg",
+    "static/media/styles.scss": "/static/media/awesome.569a91ed.jpg",
+    "static/media/cheftopia.png": "/static/media/cheftopia.9fcf1009.png",
+    "static/media/css2.png": "/static/media/css2.0be20aad.png",
+    "static/media/html2.png": "/static/media/html2.b1189477.png",
+    "static/media/js2.png": "/static/media/js2.2c8470ba.png",
+    "static/media/less2.png": "/static/media/less2.f3d963dc.png",
+    "static/media/nasasq.png": "/static/media/nasasq.1c79ee81.png",
+    "static/media/ps2.png": "/static/media/ps2.c9d60b68.png",
+    "static/media/reactjs2.png": "/static/media/reactjs2.e4346b97.png",
+    "static/media/star-drip.png": "/static/media/star-drip.99141bb1.png",
+    "static/media/taty-logo.png": "/static/media/taty-logo.bba81c6c.png",
+    "static/media/wedding.png": "/static/media/wedding.abb9c4e8.png"
+  }
+}
